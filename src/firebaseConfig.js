@@ -8,12 +8,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyB45X5tPs8V9ZEaWb_vzr7bOtHTCRCYm_Y",
-    authDomain: "job-finder-bd68a.firebaseapp.com",
-    projectId: "job-finder-bd68a",
+    apiKey: "Write API key",
+    authDomain: "job-finder-bd###.firebaseapp.com",
+    projectId: "job-finder-bd###",
     storageBucket: "job-finder-bd68a.appspot.com",
     messagingSenderId: "829364645166",
-    appId: "1:829364645166:web:08263710379fa71dbd1ebf"
+    appId: "Add Id"
 };
 
 // Initialize Firebase
