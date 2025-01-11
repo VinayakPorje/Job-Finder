@@ -6,7 +6,7 @@ Job-Finder is a social networking site for professionals where users can connect
 
 ### Dependencies
 
-RectJs  · HTML  · Cascading Style Sheets (CSS)  · Bootstrap  · Firebase
+· RectJs  · HTML  · Cascading Style Sheets (CSS)  · Bootstrap  · Firebase
 
 ## Author
 
